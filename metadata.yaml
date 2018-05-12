@@ -5,7 +5,7 @@ contributor:
     agent_name: Bowie, Henry P.
     alias: Bowie, Henri P.
     birthdate: 1848
-    deathdate: &id001 1921
+    deathdate: 1921
     gutenberg_agent_id: '34595'
     url: http://www.gutenberg.org/2009/agents/34595
 covers:
@@ -18,11 +18,13 @@ creator:
     - Saint-Saens, Camille
     - Saint-Saëns, Charles Camille
     birthdate: 1835
-    deathdate: *id001
+    deathdate: 1921
     gutenberg_agent_id: '6727'
     url: http://www.gutenberg.org/2009/agents/6727
     wikipedia: http://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30412#On-the-Execution-of-Music-and-Principally-of-Ancient-Music
 gutenberg_bookshelf: Music
 gutenberg_issued: '2009-11-07'
 gutenberg_type: Text
