@@ -1,0 +1,41 @@
+_repo: On-the-Execution-of-Music-and-Principally-of-Ancient-Music_30412
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bowie, Henry P.
+    alias: Bowie, Henri P.
+    birthdate: 1848
+    deathdate: &id001 1921
+    gutenberg_agent_id: '34595'
+    url: http://www.gutenberg.org/2009/agents/34595
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Saint-Saëns, Camille
+    aliases:
+    - Saint-Saens, Camille
+    - Saint-Saëns, Charles Camille
+    birthdate: 1835
+    deathdate: *id001
+    gutenberg_agent_id: '6727'
+    url: http://www.gutenberg.org/2009/agents/6727
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Saint-Sa%C3%ABns
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30412'
+  lccn: '15022073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music appreciation'
+- !lcc 'MT'
+- !lcsh 'Gregorian chants -- History and criticism'
+title: On the Execution of Music, and Principally of Ancient Music
+url: http://www.gutenberg.org/ebooks/30412
